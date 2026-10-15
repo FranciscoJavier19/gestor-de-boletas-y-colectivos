@@ -141,9 +141,7 @@ Con una capa de auditoría y validación, la plataforma mejora la transparencia 
 
 ---
 
-## 8. Siguiente Etapa
-
-La siguiente fase será el diseño técnico detallado:
+Lo siguiente será el diseño técnico detallado:
 
 1. Definición final de modelos y tablas.
 2. Implementación del custom user model para roles y autenticación.
